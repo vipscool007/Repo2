@@ -1,0 +1,3 @@
+this is file2
+on local macine
+file 2 is getting clsoed
