@@ -5,3 +5,7 @@ hi hello
 hi line three
 
 line four in local file
+
+
+
+made changes in branch 2, which was not synced with master
